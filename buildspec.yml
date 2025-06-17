@@ -1,4 +1,6 @@
+---
 version: 0.2
+
 phase:
   install:
     run-as: root
@@ -18,3 +20,4 @@ phase:
       files:
         - target/rapido.war
       discard-path: yes 
+...
