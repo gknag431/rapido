@@ -18,6 +18,6 @@ phases:
       - mvn package
     artifacts:
       files:
-        - target/rapido.war
+        - target/rapido-0.0.1-SNAPSHOT.war
       discard-path: yes 
 ...
